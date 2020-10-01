@@ -8,3 +8,4 @@ grappelli-safe==0.2.10
 html5lib==0.95
 pytz==2012h
 wsgiref==0.1.2
+python==3.5.2
